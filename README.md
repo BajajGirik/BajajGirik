@@ -26,4 +26,5 @@
 <img align="left" alt="GitHub" width="26px" src="assets/Skills/github.png" />
 <img align="left" alt="Terminal" width="26px" src="assets/Skills/terminal.png" />
 <img align="left" alt="Python" width="26px" src="assets/Skills/python.png" />
+<img align="left" alt="C++" width="26px" src="assets/Skills/c++.png" />
 
