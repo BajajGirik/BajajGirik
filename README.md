@@ -8,11 +8,22 @@
 
 ### Connect with me:
 
-[<span>Gmail</span> <img  alt="GirikBajaj | Gmail" width="22px" src="assets/Contact/gmail.png" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bajajgirikoff2@gmail.com)
-<br />
-[<span>LinkedIn</span> <img  alt="GirikBajaj | LinkedIn" width="22px" src="assets/Contact/linkedin.png" />](https://www.linkedin.com/in/girik-bajaj/)
-<br />
-[<span>Instagram</span> <img  alt="GirikBajaj | Instagram" width="22px" src="assets/Contact/instagram.png" />](https://www.instagram.com/girik_bajaj/)
-<br />
-[<span>Facebook</span> <img  alt="GirikBajaj | Facebook" width="22px" src="assets/Contact/facebook.png" />](https://www.facebook.com/girik.bajaj.9/)
-<br />
+[<span margin="18px">Gmail: </span> <img  alt="GirikBajaj | Gmail" width="22px" src="assets/Contact/gmail.png" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bajajgirikoff2@gmail.com)
+[<span margin="18px">LinkedIn: </span> <img  alt="GirikBajaj | LinkedIn" width="22px" src="assets/Contact/linkedin.png" />](https://www.linkedin.com/in/girik-bajaj/)
+[<span margin="18px">Instagram: </span> <img  alt="GirikBajaj | Instagram" width="22px" src="assets/Contact/instagram.png" />](https://www.instagram.com/girik_bajaj/)
+[<span margin="18px">Facebook: </span> <img  alt="GirikBajaj | Facebook" width="22px" src="assets/Contact/facebook.png" />](https://www.facebook.com/girik.bajaj.9/)
+
+### Languages and Tools 🛠:
+[![Visual Studio Code]<img align="left" alt="Visual Studio Code" width="26px" src="assets/Skills/vsc.png" />]
+[![HTML5]<img align="left" alt="HTML5" width="26px" src="assets/Skills/html.png" />]
+[![CSS3]<img align="left" alt="CSS3" width="26px" src="assets/Skills/css.png" />]
+[![JS]<img align="left" alt="JavaScript" width="26px" src="assets/Skills/javascript.png" />]
+[![REACT]<img align="left" alt="React" width="26px" src="assets/Skills/react.png" />]
+[![NODEJS]<img align="left" alt="Node.js" width="26px" src="assets/Skills/nodejs.png" />]
+[![MYSQL]<img align="left" alt="MySQL" width="26px" src="assets/Skills/mysql.png" />]
+[![MONGODB]<img align="left" alt="MongoDB" width="26px" src="assets/Skills/mongodb.png" />]
+[![GIT]<img align="left" alt="Git" width="26px" src="assets/Skills/git.png" />]
+[![GITHUB]<img align="left" alt="GitHub" width="26px" src="assets/Skills/github.png" />]
+[![TERMINAL]<img align="left" alt="Terminal" width="26px" src="assets/Skills/terminal.png" />]
+[![PYTHON]<img align="left" alt="Python" width="26px" src="assets/Skills/python.png" />]
+[![C++]<img align="left" alt="C++" width="26px" src="assets/Skills/c++.png" />]
