@@ -5,3 +5,10 @@
 - 🥅 2021 Goals: Learn more about backend technologies
 - ⚡ Fun fact: I am looking forward for the official release of BGMI
 ---
+
+### Connect with me:
+
+[<img align="left" alt="GirikBajaj | Gmail" width="22px" src="assets/Contact/gmail.png" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bajajgirikoff2@gmail.com)
+[<img align="left" alt="GirikBajaj | LinkedIn" width="22px" src="assets/Contact/linkedin.png" />](https://www.linkedin.com/in/girik-bajaj/)
+[<img align="left" alt="GirikBajaj | Instagram" width="22px" src="assets/Contact/instagram.png" />](https://www.instagram.com/girik_bajaj/)
+[<img align="left" alt="GirikBajaj | Facebook" width="22px" src="assets/Contact/facebook.png" />](https://www.facebook.com/girik.bajaj.9/)
